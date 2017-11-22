@@ -1,0 +1,34 @@
+{
+  "name": "styleguide-demo",
+  "version": "1.0.0",
+  "description": "styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacrow/styleguide-demo.git"
+  },
+  "keywords": [
+    "styleguide"
+  ],
+  "author": "tacrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacrow/styleguide-demo/issues"
+  },
+  "homepage": "https://github.com/tacrow/styleguide-demo#readme",
+  "devDependencies": {
+    "@frctl/fractal": "^1.1.7",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}

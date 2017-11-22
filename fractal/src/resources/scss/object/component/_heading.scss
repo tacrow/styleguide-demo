@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/*
+ * object/components/_heading
+ */
+.c-ttl-h1,
+.c-ttl-h2,
+.c-ttl-h3 {
+  font-weight: bold;
+}
+
+.c-ttl-h1 {
+  color: red;
+  font-size: 24px;
+}
+
+.c-ttl-h2 {
+  color: red;
+  font-size: 20px;
+}
+
+.c-ttl-h3 {
+  color: red;
+  font-size: 16px;
+}
