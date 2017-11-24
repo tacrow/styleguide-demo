@@ -1,10 +1,15 @@
 # styleguide-demo
 
-### Fractal  
-https://fractal.build/
+## Fractal  
+URL: https://fractal.build/  
 
-### Atomic Docs  
-http://atomicdocs.io/
+```
+cd [path]/styleguide-demo 
+fractal start --sync
+```
 
-### Aigis  
-http://aigis-styleguide.github.io/aigis/
+## Atomic Docs  
+URL: http://atomicdocs.io/
+
+## Aigis  
+URL: http://aigis-styleguide.github.io/aigis/
