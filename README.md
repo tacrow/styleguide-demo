@@ -5,10 +5,10 @@
 cd [path]/styleguide-demo 
 fractal start --sync
 ```
-URL: https://fractal.build/  
+https://fractal.build/  
 
 ## Atomic Docs  
-URL: http://atomicdocs.io/
+http://atomicdocs.io/
 
 ## Aigis  
-URL: http://aigis-styleguide.github.io/aigis/
+http://aigis-styleguide.github.io/aigis/
