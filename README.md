@@ -1,12 +1,11 @@
 # styleguide-demo
 
 ## Fractal  
-URL: https://fractal.build/  
-
 ```
 cd [path]/styleguide-demo 
 fractal start --sync
 ```
+URL: https://fractal.build/  
 
 ## Atomic Docs  
 URL: http://atomicdocs.io/
